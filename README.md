@@ -51,6 +51,18 @@ Release
 npm run release
 ```
 
+## Create a Page in echarts-www
+
+```shell
+cd echarts-www
+npm run create:page
+```
+
++ Project Name: Name of this project. It will be used to locate the project folder.
++ Page Name: Page name of this tool. Page URL will be `https://echarts.apache.org/zh/${pageName}/index.html`.
++ Page Title: Title of this page tool.
++ Page Chinese Title: Chinese title of this page tool.
+
 ## Global Variables from echarts-www
 
 + `ECHARTS_WEBSITE_LANGUAGE`
