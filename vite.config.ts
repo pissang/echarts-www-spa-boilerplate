@@ -9,7 +9,7 @@ export default defineConfig({
         rollupOptions: {
             input: {
                 // Use body.html when deploying
-                main: resolve(__dirname, 'body.html')
+                main: resolve(__dirname, '_body.html')
             }
         }
     },
