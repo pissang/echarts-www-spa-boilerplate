@@ -13,7 +13,7 @@ Boilerplate for creating a SPA tool page that can be integrated in Apache EChart
 
 
 + `index.html` Entry HTML that for development preview usage
-+ `body.html` Body HTML that will be final integrated when deploying
++ `_body.html` Body HTML that will be final integrated when deploying
 + `src` Source folder.
 + `dist` Distribution folder. It will be copied when deploying.
 
