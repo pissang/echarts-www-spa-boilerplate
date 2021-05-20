@@ -1,7 +1,7 @@
 <template>
 <h1>{{msg}}</h1>
 <el-input-number v-model="count"></el-input-number>
-<p>{{count}}</p>
+<p>Input Number: {{count}}</p>
 </template>
 
 <script lang="ts" setup>
