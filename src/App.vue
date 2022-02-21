@@ -15,7 +15,7 @@ import HelloWorld from './components/HelloWorld.vue';
 
 </script>
 
-<style scoped lang="scss">
+<style lang="scss">
 #echarts-spa-app {
     font-family: Avenir, Helvetica, Arial, sans-serif;
     -webkit-font-smoothing: antialiased;
